@@ -9,4 +9,4 @@ It has Features
 - Feature 
 
 
-&copy: Copyright 2022
+&copy; Copyright 2022
